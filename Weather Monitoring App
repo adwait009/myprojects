@@ -13,3 +13,6 @@ These values get updated every few seconds on ibm iot platform.
 I used Node red to retrive these values from iot platform in json format(eg. {"temperature":24,"humidity":74,"objectTemp":21} )
 I made an app in MIT App Inventor and displayed these values in the app.
 Whenever the value of any of the three parameter gets changed in the simulator correspondingly my values in the app gets updated. 
+
+
+*Note: I will be using sensor, microcontroller(STM32) and wifi module(ESP8266) in case of simulator to get actual temprature in a particular location.

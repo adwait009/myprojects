@@ -1,0 +1,15 @@
+This project is based on Application of IOT.
+
+I have built a weather monitoring app using MIT App Inventor.
+
+Project Requirements:
+IOT Simulator Sensor
+IBM Cloud account
+MIT App Inventor
+
+Description:
+The IOT simulator generates 3 properties viz. Temprature, Humidity and object Temprature.
+These values get updated every few seconds on ibm iot platform.
+I used Node red to retrive these values from iot platform in json format(eg. {"temperature":24,"humidity":74,"objectTemp":21} )
+I made an app in MIT App Inventor and displayed these values in the app.
+Whenever the value of any of the three parameter gets changed in the simulator correspondingly my values in the app gets updated. 

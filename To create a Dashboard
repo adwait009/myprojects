@@ -1,0 +1,4 @@
+I have to create a Dashboard for which
+I have to create an API take data from mysql and postgres database.
+I will be writing my API in flask and creating my Dashboard using HTML, CSS & Bootstrap.
+I will be using Angular to integrate my flask API with the Dashboard .
